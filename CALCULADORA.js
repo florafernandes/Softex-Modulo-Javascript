@@ -1,5 +1,5 @@
 var value1
-var valor2
+var value2
 var oper
 var readlineSync = require('readline-sync');
 operator = readlineSync.question("Insira o simbolo da operacao que deseja efetuar: (+), (-),(*) ou (/)? : \n");
