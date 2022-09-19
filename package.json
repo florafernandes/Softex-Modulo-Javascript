@@ -1,0 +1,18 @@
+{
+  "name": "projeto_teste",
+  "version": "1.0.0",
+  "description": "teste de projeto",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Flora",
+  "license": "ISC",
+  "keywords": [
+    "teste",
+    "projeto",
+    "node",
+    "js"
+  ]
+}
